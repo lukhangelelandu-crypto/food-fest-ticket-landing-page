@@ -38,7 +38,7 @@ food-fest-ticket-landing-page/
 ---
 ## Screen shot 
 
-   ![Cape Town Food Fest Landing Page]](<Screenshot 2026-06-23 143135.png>)
+   ![Cape Town Food Fest Landing Page](./public/Screenshot%202026-06-23%20143135.png)
 
 
 ### Installation & Run Instructions
