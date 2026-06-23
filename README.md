@@ -36,6 +36,10 @@ food-fest-ticket-landing-page/
 |---README.md
 
 ---
+## Screen shot 
+
+   ![Cape Town Food Fest Landing Page]](<Screenshot 2026-06-23 143135.png>)
+
 
 ### Installation & Run Instructions
 
@@ -46,10 +50,6 @@ food-fest-ticket-landing-page/
    npm install
    npm run dev
    http://localhost:5173
-
-## Screen shot 
-
-   ![Cape Town Food Fest Landing Page]](<Screenshot 2026-06-23 143135.png>)
 
 
 
